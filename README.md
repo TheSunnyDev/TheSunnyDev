@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **AWS & Python**
 </p>
 <p align="center">  
-- 💬 Ask me about **React**
+- 💬 Ask me about **MongoDB**
 </p>
 <p align="center">  
 - 📩 Let's collab! Reach me @ **TheSunnyDevCEO@gmail.com**
