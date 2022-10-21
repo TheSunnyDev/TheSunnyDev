@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunny 🌞</h1>
-<h3 align="center">A bright and eloquent Full-Stack Developer from Los Angeles ☀️</h3>
+<h3 align="center">A bright and eloquent Full-Stack Engineer from Los Angeles ☀️</h3>
 
 <p align="center">
 - 🌱 I’m currently learning **AWS & Python**
