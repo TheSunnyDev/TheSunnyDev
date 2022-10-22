@@ -2,7 +2,7 @@
 <h3 align="center">A bright and eloquent Full-Stack Engineer from Los Angeles ☀️</h3>
 
 <p align="center">
-- 🌱 I’m currently learning **AWS & Python**
+- 🌱 I’m currently learning **AWS**
 </p>
 <p align="center">  
 - 💬 Ask me about **MongoDB**
