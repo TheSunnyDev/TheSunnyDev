@@ -8,7 +8,7 @@
 - 💬 Ask me about **MongoDB**
 </p>
 <p align="center">  
-- 📩 Let's collab! Reach me @ **TheSunnyDevCEO@gmail.com**
+- 📩 Let's collab! Reach me **@ my handles below**
 </p>
 
 <h3 align="center">Connect with me:</h3>
