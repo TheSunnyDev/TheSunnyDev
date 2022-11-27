@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **AWS**
 </p>
 <p align="center">  
-- 💬 Ask me about **MongoDB**
+- 💬 Ask me about **React**
 </p>
 <p align="center">  
 - 📩 Let's collab! Reach me **@ my handles below**
